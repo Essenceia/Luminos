@@ -1,0 +1,1 @@
+/home/pookie/.platformio/packages/toolchain-xtensa32/bin/xtensa-esp32-elf-gcc -g  -rdynamic CMakeFiles/myApp.dir/src/main.c.o  -o myApp 

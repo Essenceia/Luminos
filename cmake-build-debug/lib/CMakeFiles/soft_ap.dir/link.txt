@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsoft_ap.a  CMakeFiles/soft_ap.dir/init_softap.c.o
+/usr/bin/ranlib libsoft_ap.a

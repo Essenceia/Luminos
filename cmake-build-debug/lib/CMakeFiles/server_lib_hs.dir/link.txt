@@ -1,0 +1,2 @@
+/usr/bin/ar qc libserver_lib_hs.a  CMakeFiles/server_lib_hs.dir/http_server.c.o
+/usr/bin/ranlib libserver_lib_hs.a

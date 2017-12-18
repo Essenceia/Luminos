@@ -1,0 +1,11 @@
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/home/pookie/Documents/code/Embed/Esp32_ledcase/cmake-build-debug/CMakeFiles/Esp32_ledcase.dir

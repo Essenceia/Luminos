@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinit_softap.a  CMakeFiles/init_softap.dir/__/src/init_softap.c.o
+/usr/bin/ranlib libinit_softap.a

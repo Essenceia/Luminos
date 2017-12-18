@@ -1,0 +1,2 @@
+/usr/bin/ar qc libserver_lib_sap.a  CMakeFiles/server_lib_sap.dir/init_softap.c.o
+/usr/bin/ranlib libserver_lib_sap.a

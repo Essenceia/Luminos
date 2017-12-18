@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsoftap.a  CMakeFiles/softap.dir/__/lib/init_softap.c.o
+/usr/bin/ranlib libsoftap.a

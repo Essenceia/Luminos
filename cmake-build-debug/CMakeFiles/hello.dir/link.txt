@@ -1,0 +1,1 @@
+/home/pookie/.platformio/packages/toolchain-xtensa32/bin/xtensa-esp32-elf-gcc -fPIC -g  -shared -Wl,-soname,libhello.so -o lib/Debug/libhello.so CMakeFiles/hello.dir/src/main.c.o CMakeFiles/hello.dir/lib/http_server.c.o CMakeFiles/hello.dir/lib/init_softap.c.o 

@@ -1,0 +1,1 @@
+/home/pookie/.platformio/packages/toolchain-xtensa32/bin/xtensa-esp32-elf-gcc -g  -rdynamic CMakeFiles/app.dir/main.c.o  -o app -lserver_lib_sap -lserver_lib_hs 
